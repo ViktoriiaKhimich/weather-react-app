@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "weather-react-app",
+			"path": ".."
+		},
+		{
+			"path": "../../weather-app/.git"
+		}
+	],
+	"settings": {}
+}
